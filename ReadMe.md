@@ -3,11 +3,9 @@
 ## To see how different campaigns fared in relation to their launch dates and their funding goals.
 
 ### For Outcomes Bases on Launch Dates how we built the graph was by gathering the parent categories then filtering it to only show theater for all the years. After that we separating the data further by months and filtering the rest of the date by successful, failed, canceled, and the grand total. With Outcomes Bases on Goals we gather the information on the total amount of plays then we separated the data with the plays money goals. After filter it more by successful, failed, and canceled to find the percentage of the plays that where successful, failed, or canceled. 
-![](Theater_Outcomes_vs_Launch.png
+![](Theater_Outcomes_vs_Launch.png)
 
-
-## Results for both Theater outcomes vs Launch dates and Outcomes based on goals
-
+![](Outcomes_Vs_Goals.png)
 ### We come to the conclusion that outcomes bases on their goals and theater outcomes bases on launch date canceled projects stayed consistent on both ends. 
 
 ## Analysis of Outcomes Based on Launch Date and Outcomes Based on Goal
